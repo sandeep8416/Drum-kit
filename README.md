@@ -1,2 +1,1 @@
-# Drum-kit
-Virtual drum
+# Drumkit
